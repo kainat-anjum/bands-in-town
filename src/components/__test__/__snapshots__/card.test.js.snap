@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Card Data Tests name and image 1`] = `
+<a
+  className="sc-bdvvaa iNgzZQ"
+  href="/artist"
+  onClick={[Function]}
+>
+  <img
+    alt=""
+    className="artist-image"
+    src="https://photos.bandsintown.com/large/11058086.jpeg"
+  />
+  <p
+    className="artist-name"
+  >
+    Mario
+  </p>
+</a>
+`;

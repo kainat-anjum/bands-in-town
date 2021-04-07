@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Header Data Tests children 1`] = `
+<div
+  className="sc-bdvvaa iVXsnw"
+>
+  <p>
+    Trending Artists: Dark Alley | Dream Your Moments, Until I met you, Gimme some courage
+  </p>
+</div>
+`;
