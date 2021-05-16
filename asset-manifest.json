@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bands-in-town/static/css/main.f8a85979.chunk.css",
+    "main.js": "/bands-in-town/static/js/main.3f597ca7.chunk.js",
+    "main.js.map": "/bands-in-town/static/js/main.3f597ca7.chunk.js.map",
+    "runtime-main.js": "/bands-in-town/static/js/runtime-main.07484f85.js",
+    "runtime-main.js.map": "/bands-in-town/static/js/runtime-main.07484f85.js.map",
+    "static/js/2.8774766f.chunk.js": "/bands-in-town/static/js/2.8774766f.chunk.js",
+    "static/js/2.8774766f.chunk.js.map": "/bands-in-town/static/js/2.8774766f.chunk.js.map",
+    "static/js/3.d8328419.chunk.js": "/bands-in-town/static/js/3.d8328419.chunk.js",
+    "static/js/3.d8328419.chunk.js.map": "/bands-in-town/static/js/3.d8328419.chunk.js.map",
+    "index.html": "/bands-in-town/index.html",
+    "static/css/main.f8a85979.chunk.css.map": "/bands-in-town/static/css/main.f8a85979.chunk.css.map",
+    "static/js/2.8774766f.chunk.js.LICENSE.txt": "/bands-in-town/static/js/2.8774766f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07484f85.js",
+    "static/js/2.8774766f.chunk.js",
+    "static/css/main.f8a85979.chunk.css",
+    "static/js/main.3f597ca7.chunk.js"
+  ]
+}
