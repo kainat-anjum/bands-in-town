@@ -14,7 +14,6 @@ import { ArtistContext } from "../../context/ArtistContext";
 import { setInputValue } from "../../actions/actions";
 
 export const Home = () => {
-  
   //constants
   const TRENDING_ARTISTS = "Trending Artists";
   const TRENDING_DETAILS =
@@ -36,9 +35,9 @@ export const Home = () => {
 
   return (
     <HomePageWrapperStyled>
-      
       <Header>
         <SearchBoxStyled
+          className="search-box"
           placeholder="Search Artists Here"
           onSearch={(value) => {
             localStorage.setItem("name", value); //set searched name in local storage on click of search button
@@ -69,9 +68,9 @@ export const Home = () => {
         </TrendingArtistGridStyled>
 
         <p className="result-heading-styled">
-          {state.artist && state.searchInputValue
-            && `Result found for "${state.searchedValue}"`
-           }
+          {state.artist &&
+            state.searchInputValue &&
+            `Result found for "${state.searchedValue}"`}
         </p>
 
         <CardWrapperStyled>
